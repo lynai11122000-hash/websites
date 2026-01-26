@@ -1,0 +1,1 @@
+adb shell /data/app/~<img width="512" height="512" alt="1204" src="https://github.com/user-attachments/assets/8cc78e91-5d26-4bd1-8381-eea7ff0ecdba" />==/moe.shizuku.privileged.api-OgKDzyOZdrS1KKaN86rMHQ==/lib/arm64/libshizuku.so
